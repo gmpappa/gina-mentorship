@@ -15,7 +15,7 @@ Goal here is to get you to understand databases, specifically MongoDB noSQL
 
 
 
-## To-Do by 1/1
+## To-Do by 12/30
 
 1. [ ] Docker Intro + Containers
 2. [ ] Create your own MongoDB Image
