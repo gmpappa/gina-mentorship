@@ -6,12 +6,19 @@ Goal here is to get you to understand databases, specifically MongoDB noSQL
 - [ ] dev side of things:
 	* how to make CRUD requests
 
-## To-Do by 12/27 - 
+## To-Do by 12/27
 
 1. Learn "What is JSON"
 2. [ ] Create your own MongoDB
 3. [ ] Perform all CRUD requests to the database; Write them down in `it2_ans.md`
 4. [ ] Create a SPA (simple app) to connect to the Database and peform + document all CRUD requests.
 
+
+
+## To-Do by 12/1
+
+1. Docker Intro + Containers
+2. Create your own MongoDB Image
+3. Deploy your own container
 
 ... roll this into Networking / Servers
