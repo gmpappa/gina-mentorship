@@ -12,6 +12,8 @@ Goal here is to get you to understand databases, specifically MongoDB noSQL
 2. [ ] Create your own MongoDB
 3. [ ] Perform all CRUD requests to the database; Write them down in `it2_ans.md`
 4. [ ] Create a SPA (simple app) to connect to the Database and peform + document all CRUD requests.
+	- node.js and express for server
+	- plain html and css for frontend
 
 
 
